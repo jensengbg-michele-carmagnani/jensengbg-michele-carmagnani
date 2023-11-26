@@ -15,7 +15,7 @@ welcome to my GitHub!</h1>
 <h3 align="left"> Languages and tools I've used:</h3>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/368858/nextjs.svg" alt="react" width="40" height="40"/></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354309/sanity.svg" alt="react" width="40" height="40"/></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452092/react.svg" alt="react" width="40" height="40"/></a>
 <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="redux" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" > <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" > <img src="https://www.svgrepo.com/show/439022/typescript.svg" alt="typescript" width="40" height="40"/></a>
