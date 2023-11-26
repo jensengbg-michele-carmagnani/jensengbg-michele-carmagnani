@@ -1,6 +1,4 @@
-![logo](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
-### Hi there 👋
+<div align="center"><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="media"/></div>
 
 <h1 align="center">Hi, I'm Michele,
 
@@ -8,13 +6,13 @@ welcome to my GitHub!</h1>
 
 <h3>Something about me: </h3>
 
-- Frontend developer at based in Gothemburg
+- 🇸🇪 Frontend developer based in Gothemburg
 - 💞 I love make usefull application that can help people to make life easier
 - 🌱 I’m currently learning Java to become a fullstack & nodeJs
 - 🚴‍♂️ I like riding my MTB
 - 🥘 Cooking good and healthy food is my second pations
 
-<h4 align="left">Languages and tools I've used:</h4>
+## Languages and tools I've used
 
 <a href="https://git-scm.com/" > <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" > <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="html5" width="40" height="40"/></a>
@@ -30,8 +28,6 @@ welcome to my GitHub!</h1>
 <a href="https://sanity.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354309/sanity.svg" alt="sanity" width="40" height="40"/></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354309/sanity.svg" alt="react" width="40" height="40"/></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/368858/nextjs.svg" alt="react" width="40" height="40"/></a>
-
-- 📫 How to reach me: ...
 
 ## 🔗 Links
 
