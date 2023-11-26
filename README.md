@@ -1,8 +1,9 @@
-<div align="center"><img src="https://i.seadn.io/gae/5Un5dLnzN0nbhvQEIkDMUlwjEwCszhdedue8dIFFFR2uIVhhhTxYNFFzshUMGgZbsTIWRGSW-y068dkjwk1jeoFCN2AblD0mQSY39A?auto=format&dpr=1&w=1000" alt="media"/></div>
-
 <h1 align="center">Hi, I'm Michele,
-
 welcome to my GitHub!</h1>
+##
+
+<div align="center"><img src="https://www.behance.net/gallery/161921919/Portrait-animated-gif/modules/913447149" alt="media"/></div>
+
 
 <h2>Something about me: </h2>
 
