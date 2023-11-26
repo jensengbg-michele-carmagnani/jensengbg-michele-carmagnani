@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Michele,
 welcome to my GitHub!</h1>
-##
 
-<div align="center"><img src="https://www.behance.net/gallery/161921919/Portrait-animated-gif/modules/913447149" alt="media"/></div>
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 
 <h2>Something about me: </h2>
